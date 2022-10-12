@@ -1,0 +1,378 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+      box-sizing: border-box;
+      }
+
+      body {
+      font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
+      }
+
+      a,
+      a:visited {
+      color: #8d8d8d;
+      text-decoration: none;
+      }
+
+      .header-img {
+      text-align: left!important;
+      }
+
+      .header-txt-col div {
+      text-align: right!important;
+      }
+
+      .hero-bg-image {
+      background-image: url("https://emaillove-emails.s3.amazonaws.com/540acdcff690c8037a8aae5e8e6704c1.png");
+      background-repeat: no-repeat;
+      background-position: top center;
+      background-color: #1b1b1b;
+      width: 100%;
+      }
+
+      .info-mj-col {
+      padding: 60px 0 30px!important;
+      }
+
+      .footer-links-col {
+      min-width: 90% !important;
+      display: inline-block !important;
+      padding: 0 !important;
+      }
+
+      .footer-links {
+      height: 100% !important;
+      }
+
+      .footer-img-col {
+      display: inline-block !important;
+      width: 10% !important;
+      }
+
+      .footer-img {
+      padding: 0 !important;
+      text-align: left !important;
+      }
+
+      @media screen and (max-width: 550px) {
+      .header-section {
+      text-align: center!important;
+      min-width: 100%!important;
+      }
+
+      .header-img-col {
+      width: 100%!important;
+      display: block!important;
+      text-align: center!important;
+      margin: auto!important;
+      padding: 0 0 6px 0!important;
+      }
+
+      .header-img {
+      text-align: center!important;
+      display: inline-block!important;
+      padding: 0!important;
+      }
+
+      .header-img img {
+      width: 100%!important;
+      text-align: center!important;
+      margin: auto!important;
+      }
+
+      .header-txt-col {
+      width: 100%!important;
+      display: block!important;
+      text-align: center!important;
+      margin: auto!important;
+      padding: 0!important;
+      }
+
+      .header-txt div {
+      text-align: center!important;
+      padding: 0!important;
+      }
+
+      .hero-btns-tr > td {
+      display: block!important;
+      width: 100%!important;
+      }
+
+      .hero-btns-tr a {
+      display: block!important;
+      width: 100%!important;
+      margin-bottom: 15px!important;
+      text-align: center!important;
+      }
+
+      .info-mj-col {
+      padding: 0!important;
+      }
+
+      .info-btns-tr > td {
+      display: block!important;
+      width: 100%!important;
+      }
+
+      .info-btns-tr a {
+      display: block!important;
+      width: 100%!important;
+      margin-bottom: 15px!important;
+      text-align: center!important;
+      }
+
+      .info-tr > td {
+      display: block!important;
+      text-align: center!important;
+      margin-bottom: 4px!important;
+      }
+
+      hr {
+      width: 100% !important;
+      }
+
+      .footer-links-col {
+      min-width: 100% !important;
+      display: block !important;
+      }
+
+      .footer-links a {
+      display: block !important;
+      text-align: center !important;
+      margin: 0 0 14px !important;
+      }
+
+      .footer-links p {
+      display: none !important;
+      }
+
+      .footer-img-col {
+      width: 100%!important;
+      display: block!important;
+      text-align: center!important;
+      margin: auto!important;
+      padding: 6px 0 0 0!important;
+      }
+
+      .footer-img {
+      text-align: center!important;
+      display: inline-block!important;
+      padding: 0!important;
+      }
+
+      .footer-img img {
+      width: 100%!important;
+      text-align: center!important;
+      margin: auto!important;
+      }
+      }
+    </mj-style>
+    <mj-style inline="inline">
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section css-class="header-section" full-width="full-width" background-color="#1b1b1b" padding-top="45px">
+      <mj-column css-class="header-img-col" width="50%">
+        <mj-image css-class="header-img" width="108px" height="19.63px" src="https://emaillove-emails.s3.amazonaws.com/fc7ae53771cd75b9a7831d09480718dc.png" href="#" alt="designmodo logo" />
+      </mj-column>
+      <mj-column css-class="header-txt-col" width="50%">
+        <mj-text css-class="header-txt" height="19.63px" color="#8d8d8d" font-size="12px">
+          No images?<a href="#" style="text-decoration: underline;"> View in browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Hero -->
+    </mj-raw>
+    <mj-wrapper full-width="full-width" css-class="hero-bg-image">
+      <mj-section padding-top="50px">
+        <mj-column width="100%">
+          <mj-text color="#fff" font-size="88px" font-weight="bold" line-height="1.1" letter-spacing="-0.32px">
+            Meet the New<span style="color: #f25022;"> Slides 5</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Hero Image Section -->
+      </mj-raw>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image width="600px" href="#" src="https://emaillove-emails.s3.amazonaws.com/12a30e5bc16f099a43a572481aa80afc.png" alt="slides 5 video" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-raw>
+            <!-- Hero Buttons Section -->
+          </mj-raw>
+          <mj-table padding-top="25px">
+            <tr class="hero-btns-tr">
+              <td style="display: inline-block; margin-right: 10px;">
+                <a style="background-color: #e1af2c; color: black; border-radius: 6px; font-size: 16px; font-weight: bold; padding: 10px 15px 15px 15px; text-decoration: none;" href="#">Buy now <span style="font-size: 14px; font-weight: normal;">from $89</span></a>
+              </td>
+              <td style="display: inline-block;">
+                <a style="background-color: #1b1b1b; color: white; border-radius: 6px; border: 2px solid #5f5f5f; font-size: 16px; font-weight: bold; padding: 10px 15px 15px 15px; text-decoration: none;" href="#">Learn more</a>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <!-- Hero Text Section -->
+      </mj-raw>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text color="#fff" font-size="32px" font-weight="bold" letter-spacing="-0.32px" line-height="1.3">
+            Create, edit and keep static pages online. Export as a finished, <span>ready to upload</span> project.
+          </mj-text>
+          <mj-text color="#fff" font-size="18px" letter-spacing="-0.16px" line-height="1.6">
+            Projects are here! Keep and maintain multiple pages in separate projects. Edit content, upload media, add meta-tags, organize multiple projects and much more...
+          </mj-text>
+          <mj-text>
+            <a href="#" style="color: #fff; font-size: 16px; font-weight: bold; border-bottom: 1px solid white;">Start a New Project <span style="border-bottom: 1px solid black;">→</span></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-raw>
+      <!-- Information  -->
+    </mj-raw>
+    <mj-wrapper full-width="full-width" background-color="#fff">
+      <mj-section>
+        <mj-column width="100%">
+          <mj-text font-size="60px" font-weight="bold" color="#1b1b1b" align="left">
+            What's new?
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Information Bullet Points Section -->
+      </mj-raw>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-table>
+            <tr>
+              <td style="width: 44px;" align="left">
+                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/f6218b4e15993c66696f78c729f77da8.png" width="44px" height="44px" alt="n logo">
+              </td>
+              <td align="right">
+                <p style="font-size:16px; text-align: left;">Keep and maintain multiple pages in separate projects.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 44px;" align="left">
+                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/f6218b4e15993c66696f78c729f77da8.png" width="44px" height="44px" alt="n logo">
+              </td>
+              <td align="right">
+                <p style="font-size:16px; text-align: left;">Edit the code online and upload your media.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 44px;" align="left">
+                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/f6218b4e15993c66696f78c729f77da8.png" width="44px" height="44px" alt="n logo">
+              </td>
+              <td align="right">
+                <p style="font-size:16px; text-align: left;">New design, new images, new default <span style="text-decoration: underline;">Inter</span> font.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 44px;" align="left">
+                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/517d4021b0329bc597bf8768125f9faf.png" width="44px" height="44px" alt="n logo">
+              </td>
+              <td align="right">
+                <p style="font-size:16px; text-align: left;">Google Pagespeed score up to a whopping 95/98.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 44px;" align="left">
+                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/517d4021b0329bc597bf8768125f9faf.png" width="44px" height="44px" alt="n logo">
+              </td>
+              <td align="right">
+                <p style="font-size:16px; text-align: left;">Night mode added for Generator and Project pages.</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="width: 44px;" align="left">
+                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/79974495273ae8bbccddd880426f217e.png" width="44px" height="44px" alt="n logo">
+              </td>
+              <td align="right">
+                <p style="font-size:16px; text-align: left;">Fixed major scroll issues for various mobile devices.</p>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Information Buttons Section -->
+      </mj-raw>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-table padding-top="25px">
+            <tr class="info-btns-tr">
+              <td style="display: inline-block;">
+                <a style="background-color: #fff; color: black; border-radius: 6px; border: 2px solid #E3E3E3; font-size: 16px; margin-right: 16px; padding: 10px 15px 15px 15px; text-decoration: none;" href="#">View all 19 changes</a>
+              </td>
+              <td style="display: inline-block; margin-right: 10px;">
+                <a style="background-color: #e1af2c; color: black; border-radius: 6px; font-size: 16px; font-weight: bold; padding: 10px 15px 15px 15px; text-decoration: none;" href="#">Buy now <span style="font-size: 14px; font-weight: normal;">from $89</span></a>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Information Bottom Section -->
+      </mj-raw>
+      <mj-section>
+        <mj-column css-class="info-mj-col" width="100%">
+          <mj-table>
+            <tr class="info-tr">
+              <td>
+                <img width="100" height="45.53" src="https://emaillove-emails.s3.amazonaws.com/43efdcf9e0897b6e9d11264c383f1262.png">
+              </td>
+              <td style="text-align: center;">
+                <a style="font-size: 16px; color: black;" href="#">Changelogs</a>
+              </td>
+              <td style="text-align: center;">
+                <a style="font-size: 16px; color: black;" href="#">License</a>
+              </td>
+              <td style="text-align: center;">
+                <a style="font-size: 16px; color: black;" href="#">Tutorials</a>
+              </td>
+              <td style="text-align: center;">
+                <a style="font-size: 16px; color: black;" href="#">Help</a>
+              </td>
+              <td style="text-align: center;">
+                <a style="font-size: 16px; color: black;" href="#">Login</a>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <hr style="margin-bottom: 20px;" width="550px" style="border: 1px solid #eaeaea;">
+      </mj-raw>
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+      <mj-section full-width="full-width">
+        <mj-column vertical-align="middle" css-class="footer-links-col">
+          <mj-text css-class="footer-links">
+            <a style="display: inline; color: #484848; font-size: 13px;" href="#">Change Preferences</a>
+            <p style="display: inline; color: #484848; font-size: 32px; margin: 0 10px">.</p>
+            <a style="display: inline; color: #484848; font-size: 13px;" href="#">Unsubscribe</a>
+            <p style="display: inline; color: #484848; font-size: 32px; margin: 0 10px">.</p>
+            <a style="display: inline; color: #484848; font-size: 13px;" href="#">view in Browser</a>
+          </mj-text>
+        </mj-column>
+        <mj-column css-class="footer-img-col" vertical-align="middle" width="100%">
+          <mj-image css-class="footer-img" width="24px" height="24px" src="https://emaillove-emails.s3.amazonaws.com/69495d5ae75797d647ba15bfbe636dee.png" alt="" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
