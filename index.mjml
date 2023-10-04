@@ -146,7 +146,7 @@
     </mj-raw>
     <mj-section css-class="header-section" full-width="full-width" background-color="#1b1b1b" padding-top="45px">
       <mj-column css-class="header-img-col" width="50%">
-        <mj-image css-class="header-img" width="108px" height="19.63px" src="https://emaillove-emails.s3.amazonaws.com/fc7ae53771cd75b9a7831d09480718dc.png" href="#" alt="designmodo logo" />
+        <mj-image css-class="header-img" width="108px" height="19.63px" src="images/designmodo-logo.png" href="#" alt="designmodo logo" />
       </mj-column>
       <mj-column css-class="header-txt-col" width="50%">
         <mj-text css-class="header-txt" height="19.63px" color="#8d8d8d" font-size="12px">
@@ -171,7 +171,7 @@
       </mj-raw>
       <mj-section>
         <mj-column width="100%">
-          <mj-image width="600px" href="#" src="https://emaillove-emails.s3.amazonaws.com/12a30e5bc16f099a43a572481aa80afc.png" alt="slides 5 video" />
+          <mj-image width="600px" href="#" src="images/slides-5-video.png" alt="slides 5 video" />
         </mj-column>
         <mj-column width="100%">
           <mj-raw>
@@ -227,7 +227,7 @@
           <mj-table>
             <tr>
               <td style="width: 44px;" align="left">
-                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/f6218b4e15993c66696f78c729f77da8.png" width="44px" height="44px" alt="n logo">
+                <img style="vertical-align: middle; margin-right: 5px;" src="images/n-icon.png" width="44px" height="44px" alt="n icon">
               </td>
               <td align="right">
                 <p style="font-size:16px; text-align: left;">Keep and maintain multiple pages in separate projects.</p>
@@ -235,7 +235,7 @@
             </tr>
             <tr>
               <td style="width: 44px;" align="left">
-                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/f6218b4e15993c66696f78c729f77da8.png" width="44px" height="44px" alt="n logo">
+                <img style="vertical-align: middle; margin-right: 5px;" src="images/n-icon.png" width="44px" height="44px" alt="n icon">
               </td>
               <td align="right">
                 <p style="font-size:16px; text-align: left;">Edit the code online and upload your media.</p>
@@ -243,7 +243,7 @@
             </tr>
             <tr>
               <td style="width: 44px;" align="left">
-                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/f6218b4e15993c66696f78c729f77da8.png" width="44px" height="44px" alt="n logo">
+                <img style="vertical-align: middle; margin-right: 5px;" src="images/n-icon.png" width="44px" height="44px" alt="n icon">
               </td>
               <td align="right">
                 <p style="font-size:16px; text-align: left;">New design, new images, new default <span style="text-decoration: underline;">Inter</span> font.</p>
@@ -251,7 +251,7 @@
             </tr>
             <tr>
               <td style="width: 44px;" align="left">
-                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/517d4021b0329bc597bf8768125f9faf.png" width="44px" height="44px" alt="n logo">
+                <img style="vertical-align: middle; margin-right: 5px;" src="images/e-icon.png" width="44px" height="44px" alt="e icon">
               </td>
               <td align="right">
                 <p style="font-size:16px; text-align: left;">Google Pagespeed score up to a whopping 95/98.</p>
@@ -259,7 +259,7 @@
             </tr>
             <tr>
               <td style="width: 44px;" align="left">
-                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/517d4021b0329bc597bf8768125f9faf.png" width="44px" height="44px" alt="n logo">
+                <img style="vertical-align: middle; margin-right: 5px;" src="images/e-icon.png" width="44px" height="44px" alt="e icon">
               </td>
               <td align="right">
                 <p style="font-size:16px; text-align: left;">Night mode added for Generator and Project pages.</p>
@@ -267,7 +267,7 @@
             </tr>
             <tr>
               <td style="width: 44px;" align="left">
-                <img style="vertical-align: middle; margin-right: 5px;" src="https://emaillove-emails.s3.amazonaws.com/79974495273ae8bbccddd880426f217e.png" width="44px" height="44px" alt="n logo">
+                <img style="vertical-align: middle; margin-right: 5px;" src="images/f-icon.png" width="44px" height="44px" alt="f icon">
               </td>
               <td align="right">
                 <p style="font-size:16px; text-align: left;">Fixed major scroll issues for various mobile devices.</p>
@@ -301,7 +301,7 @@
           <mj-table>
             <tr class="info-tr">
               <td>
-                <img width="100" height="45.53" src="https://emaillove-emails.s3.amazonaws.com/43efdcf9e0897b6e9d11264c383f1262.png">
+                <img width="100" height="45.53" src="images/slides-5.png" alt="slides 5 logo">
               </td>
               <td style="text-align: center;">
                 <a style="font-size: 16px; color: black;" href="#">Changelogs</a>
@@ -339,7 +339,7 @@
           </mj-text>
         </mj-column>
         <mj-column css-class="footer-img-col" vertical-align="middle" width="100%">
-          <mj-image css-class="footer-img" width="24px" height="24px" src="https://emaillove-emails.s3.amazonaws.com/69495d5ae75797d647ba15bfbe636dee.png" alt="" />
+          <mj-image css-class="footer-img" width="24px" height="24px" src="images/wink-face-icon.png" alt="wink face icon" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
